@@ -1,2 +1,2 @@
 # swin_transformer
-This repository containts a jupyter notebook that walks you through Swin Transformer. It is implemnted from scratch  using pytorch and every step is explained clearly
+This repository contains a jupyter notebook having simplified implementation of the research paper named - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[https://arxiv.org/abs/2103.14030]. The notebook will walk you through the whole paper step by step. If you like the notebook don't forget to star it. You  can directly open the notebook in colab and implement cell by cell without thinking about dependecies or anything. 
